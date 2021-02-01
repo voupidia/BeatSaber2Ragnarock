@@ -1,0 +1,11 @@
+{
+  "name": "beatsaber2ragnarock",
+  "version": "0.1.0",
+  "description": "Song Converter from Beat Saber to Ragnaröck",
+  "main": "BeatSaber2Ragnarock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vou",
+  "license": "MIT"
+}
