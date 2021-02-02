@@ -1,6 +1,6 @@
 # BeatSaber2Ragnarock
 This is a converter script for custom songs from [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/ "Beat Saber Steam Page") to [Ragnaröck](https://store.steampowered.com/app/1345820/Ragnarock/ "Ragnaröck Steam Page") written in JavaScript.
-When you want to play a song in Ragnaröck, nobody mapped yet but you can find it for Beat Saber ([i.e. BEAST SABER](https://bsaber.com/ "BEAST SABER website")), this script can help you to converting it to give you a base for improving upon.
+When you want to play a song in Ragnaröck, nobody mapped yet but you can find it for Beat Saber ([i.e. BEAST SABER](https://bsaber.com/ "BEAST SABER website")), this script can help you converting it to give you a base for improving upon.
 But be aware, unedited converted scripts can never be as good, as original ones.
 Some patterns just don't work that well in Ragnaröck.
 - - -
